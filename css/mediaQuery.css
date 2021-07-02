@@ -5,6 +5,6 @@
 }
 
 @media screen and (max-width: 1025px) {
-    #jobs .submit{display: none !important;}
+     .submit{display: none !important;}
 }
 
